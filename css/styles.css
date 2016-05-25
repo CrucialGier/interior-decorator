@@ -1,0 +1,67 @@
+html{
+}
+
+body {
+  background-image: url("../images/");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: ;
+}
+
+.sidebar {
+  margin: 100px 50px 0 0;
+  padding-left: 30px;
+  float: right;
+}
+
+.sidebar li{
+  list-style: none;
+  font-size: 30px;
+  margin-top: 40px;
+}
+
+.sidebar a {
+  text-decoration: none;
+  color: pink;
+}
+
+.sidebar a:hover {
+  text-shadow: 1px 1px 0 pink;
+  color: white;
+}
+
+.container {
+  margin: 0 10% 0 10%;
+}
+
+.column1 {
+  width: 40%;
+  padding: 0 20px;
+  float: left;
+  background-color: pink;
+}
+
+.column2 {
+  width: 40%;
+  padding: 0 20px;
+  float: right;
+  background-color: #9cf;
+}
+
+p {
+  font-size: 20px;
+}
+
+.intro {
+  max-width: 50%;
+  font-style: italic;
+}
+
+.classy {
+  font-family: ;
+}
+
+.list {
+  margin: 25% 20% 0 0;
+  text-align: left;
+}
